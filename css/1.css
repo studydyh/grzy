@@ -2,14 +2,17 @@ t {
     color: crimson;
     font-size: 20px;
 }
+
 h1 {
     color: #00f;
     font-size: 10px;
 }
+
 b {
     color: lime:
     font-size: 20px;
 }
+
 pre {
     font-family: Arial;
     background-color: bisque;
@@ -51,18 +54,19 @@ a:active {
     color: purple;
 }
 
-#test{
+#test {
     background-color: lime;
 }
-m,n{
+
+m, n {
 
 }
 
 #box1,
 #box2,
-#box3{
+#box3 {
     background: #d5f5f5;
-    margin:  50px;
+    margin: 50px;
     padding: 10px;
 
 }
@@ -100,6 +104,8 @@ m,n{
     z-index: 1;
     position: absolute;
 }
-#liuebiao{
+
+#liebiao {
+    margin: auto;
 
 }
