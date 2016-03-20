@@ -1,8 +1,18 @@
-.red {
-    color: red;
+.navbar {
+    margin-bottom: 30px;
+}
+.row {
+    margin: auto;
+    margin-bottom: 10px;
+    background: #5bc0de;
 }
 
-.bg-red { /*class*/
-    background-color: red;
+.jumbotron {
+    margin-top: 50px;
 }
-outline-color: #c9302c;
+
+.foot {
+
+    margin-bottom: 10px;
+    background: #5cb85c;
+}
